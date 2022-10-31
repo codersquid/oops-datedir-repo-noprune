@@ -1,0 +1,19 @@
+.tox
+tmp
+
+# IDEs
+hardware.sublime-workspace
+.idea/
+.ropeproject/
+*.swp
+flycheck*
+
+# Python
+*.py[cod]
+venv
+env
+*.egg-info
+dist
+
+.bzr
+.bzrignore
